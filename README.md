@@ -2,7 +2,7 @@
 The following list of links are great resources to get you started on learning how to use, deploy, and manage GitHub Advanced Security in your environment.
 
 ## Getting Started
-- [Configuring CodeQL](https://docs.github.com/en/github/finding-security-vulnerabilities-and-errors-in-your-code/configuring-codeql-code-scanning-in-your-ci-system)
+- [Configuring Code Scanning]([https://docs.github.com/en/github/finding-security-vulnerabilities-and-errors-in-your-code/configuring-codeql-code-scanning-in-your-ci-system](https://docs.github.com/en/enterprise-cloud@latest/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors/configuring-code-scanning)
 - [Running additional queries](https://docs.github.com/en/github/finding-security-vulnerabilities-and-errors-in-your-code/configuring-code-scanning#running-additional-queries)
 - [CodeQL CLI Docs](https://codeql.github.com/docs/codeql-cli/getting-started-with-the-codeql-cli)
 - [Integrating other tools with GHAS](https://codeql.github.com/docs/codeql-cli/getting-started-with-the-codeql-cli)
